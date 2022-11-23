@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+p{
+    color: #7D7987;
+    font-family:'Open Sans', sans-serif;
+}
+
+.text1{
+    border-top: 1px solid #ECEFF2;
+
+   position: fixed;
+   top: 25px;
+   left: 25px;
+   text-align: end;
+}
+h1{
+    margin-top: 25px;
+    font-family:'Inter', sans-serif;
+    font-size: 19px;
+    margin-bottom: 20px;
+    
+    
+}
+img{
+    margin: 72px;
+}
+.text2{
+ position: fixed;
+ bottom: 50px;
+ right: 50px;
+ text-align: end;
+}
+
+a{
+    margin: 10px;
+    
+    text-decoration: none;
+    color: orange;
+}
